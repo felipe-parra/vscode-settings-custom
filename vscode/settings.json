@@ -1,0 +1,41 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.guides.bracketPairs": true,
+  "editor.lineHeight": 24,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+
+  "explorer.compactFolders": false,
+
+  "files.autoSave": "afterDelay",
+
+  "workbench.editor.enablePreview": false,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#007acc",
+    "titleBar.activeForeground": "#ffffff"
+  }
+}
